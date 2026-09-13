@@ -314,6 +314,3 @@ This project demonstrates how R can be connected to a relational MySQL database 
 
 The workflow combines database integration, data cleaning, statistical preprocessing, feature engineering, visualization, time-series analysis, and predictive modeling to extract useful business insights from e-commerce data.
 
-
-
-Interested in **Data Analysis, Machine Learning, Business Intelligence, Digital Marketing, and SEO**.

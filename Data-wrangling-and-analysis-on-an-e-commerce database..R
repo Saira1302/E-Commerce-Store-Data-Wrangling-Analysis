@@ -9,7 +9,7 @@ con <- dbConnect(
   dbname = "ecommerce_db",
   host = "localhost",
   user = "root",
-  password = "ab12ab12@saira"
+  password = " "
 )
 
 customers <- dbReadTable(con, "customers")
